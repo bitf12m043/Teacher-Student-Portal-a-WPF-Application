@@ -1,0 +1,21 @@
+﻿<Window x:Class="TeacherFacilitationSystem.report"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="report" Height="500" Width="500">
+    <Grid>
+        
+        <Label Content="Reports" HorizontalAlignment="Left" Margin="206,32,0,0" 
+               VerticalAlignment="Top" Width="77" FontSize="15px" FontWeight="Bold" 
+               RenderTransformOrigin="1.912,0.021"/>
+
+        <Button  HorizontalAlignment="Left" Margin="44,256,0,0" VerticalAlignment="Top" Width="150" Click="showAll">
+            <Image Source="C:\Users\SHAHARYAR TARIQ\Desktop\report1.PNG" Stretch="Uniform"/>
+        </Button>
+        <Button  HorizontalAlignment="Left" Margin="275,256,0,0" VerticalAlignment="Top"
+                Width="182" Click="showParticualr">
+            <Image Source="C:\Users\SHAHARYAR TARIQ\Desktop\report2.PNG" Stretch="Uniform" Height="80"/>
+        </Button>
+
+
+    </Grid>
+</Window>

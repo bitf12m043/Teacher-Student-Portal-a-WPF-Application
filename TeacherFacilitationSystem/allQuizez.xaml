@@ -1,0 +1,23 @@
+﻿<Window x:Class="TeacherFacilitationSystem.allQuizez"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="allQuizez" Height="300" Width="700">
+    <Grid Margin="0,10,0,0">
+        <DataGrid x:Name="myGrid" AutoGenerateColumns="False" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Height="259" Width="682">
+        
+			<DataGrid.Columns>
+			
+       			<DataGridTextColumn Header="qID" Width="100" Binding="{Binding qId}" />
+                <DataGridTextColumn Header="statement" Width="100" Binding="{Binding statement}" />
+                <DataGridTextColumn Header="Option A" Width="100" Binding="{Binding optionA}" />
+                <DataGridTextColumn Header="Option B" Width="100" Binding="{Binding optionB}" />
+                <DataGridTextColumn Header="Option C" Width="100" Binding="{Binding optionC}" />
+                <DataGridTextColumn Header="Option D" Width="100" Binding="{Binding optionD}" />
+                <DataGridTextColumn Header="Correct" Width="100" Binding="{Binding correct}" />
+            
+			</DataGrid.Columns>
+        
+		</DataGrid>
+
+    </Grid>
+</Window>

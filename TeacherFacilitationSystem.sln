@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherFacilitationSystem", "TeacherFacilitationSystem\TeacherFacilitationSystem.csproj", "{81DB8DD8-098B-46A2-80F8-44E9A12E7B16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buninessObjects", "buninessObjects\buninessObjects.csproj", "{6FBA0E62-A70C-42D3-9532-02D0496C391A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{021D3129-28A3-4823-9F41-EC719AB390BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81DB8DD8-098B-46A2-80F8-44E9A12E7B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81DB8DD8-098B-46A2-80F8-44E9A12E7B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81DB8DD8-098B-46A2-80F8-44E9A12E7B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81DB8DD8-098B-46A2-80F8-44E9A12E7B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBA0E62-A70C-42D3-9532-02D0496C391A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBA0E62-A70C-42D3-9532-02D0496C391A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBA0E62-A70C-42D3-9532-02D0496C391A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBA0E62-A70C-42D3-9532-02D0496C391A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021D3129-28A3-4823-9F41-EC719AB390BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021D3129-28A3-4823-9F41-EC719AB390BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021D3129-28A3-4823-9F41-EC719AB390BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021D3129-28A3-4823-9F41-EC719AB390BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

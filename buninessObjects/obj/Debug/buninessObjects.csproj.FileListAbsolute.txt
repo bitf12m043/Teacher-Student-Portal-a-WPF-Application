@@ -1,0 +1,10 @@
+C:\Users\SHAHARYAR TARIQ\Desktop\TeacherFacilitationSystem\buninessObjects\bin\Debug\buninessObjects.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\TeacherFacilitationSystem\buninessObjects\bin\Debug\buninessObjects.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\TeacherFacilitationSystem\buninessObjects\obj\Debug\buninessObjects.csprojResolveAssemblyReference.cache
+C:\Users\SHAHARYAR TARIQ\Desktop\TeacherFacilitationSystem\buninessObjects\obj\Debug\buninessObjects.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\TeacherFacilitationSystem\buninessObjects\obj\Debug\buninessObjects.pdb
+E:\Study\Bachelors\6 semester\EAD\Assignments\TeacherFacilitationSystem\buninessObjects\bin\Debug\buninessObjects.dll
+E:\Study\Bachelors\6 semester\EAD\Assignments\TeacherFacilitationSystem\buninessObjects\bin\Debug\buninessObjects.pdb
+E:\Study\Bachelors\6 semester\EAD\Assignments\TeacherFacilitationSystem\buninessObjects\obj\Debug\buninessObjects.csprojResolveAssemblyReference.cache
+E:\Study\Bachelors\6 semester\EAD\Assignments\TeacherFacilitationSystem\buninessObjects\obj\Debug\buninessObjects.dll
+E:\Study\Bachelors\6 semester\EAD\Assignments\TeacherFacilitationSystem\buninessObjects\obj\Debug\buninessObjects.pdb

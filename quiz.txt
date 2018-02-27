@@ -1,0 +1,4 @@
+What is the color of sky?
+blue;green;orange;red;A
+RAM stands for?
+Random Access Memory;Read only memory;Read and write;none;A
